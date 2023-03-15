@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "796005292149",
+    "firebase_url": "https://gate-f1db0-default-rtdb.firebaseio.com",
+    "project_id": "gate-f1db0",
+    "storage_bucket": "gate-f1db0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796005292149:android:94c8c4e3a966a954ee803c",
+        "android_client_info": {
+          "package_name": "com.example.securegate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796005292149-qi255n6r6i859pf2p387fkeb8b25icf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7TD7sAUZJvaRxWAruNiMVSz3BXjCnNpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796005292149-qi255n6r6i859pf2p387fkeb8b25icf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
